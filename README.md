@@ -9,10 +9,6 @@
 🎯 Goal: Become AI Engineer / Software Engineer
 </p>
 
----
-
-## 🧠 Algorithm & Problem Solving
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/teerapatchuchuay?theme=dark&font=Baloo" />
 </p>
@@ -20,16 +16,6 @@
 <p align="center">
 🔗 <a href="https://leetcode.com/u/teerapatchuchuay/">LeetCode Profile</a>
 </p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teerapatchuchuay&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -61,15 +47,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
----
-
 ## 🚀 Current Focus
 
-- 🤖 Machine Learning / Deep Learning
-- 🧠 Competitive Programming
-- 🛠 Building Real-World Projects
-
----
+Machine Learning / Deep Learning
+competitive Programming
+Building Real-World Projects
 
 ## 📫 Contact Me
 
