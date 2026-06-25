@@ -9,13 +9,7 @@
 🎯 Goal: Become AI Engineer / Software Engineer
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/teerapatchuchuay?theme=dark&font=Baloo" />
-</p>
 
-<p align="center">
-🔗 <a href="https://leetcode.com/u/teerapatchuchuay/">LeetCode Profile</a>
-</p>
 
 ## 📊 GitHub Stats
 
